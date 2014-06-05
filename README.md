@@ -53,5 +53,23 @@ phone_manager
 	+ 实现基本功能
 * 完成标准
 	+ 实现基本功能和部分高级功能
-	+ 各项功能能够正常工作并有稳定性测试
+	+ 各项功能能够正常工作并有稳定性测试jonaszhang
+
+## 附录：GitHub项目使用指南
+* 注册github账号https://github.com，记住自己的账号和密码
+* 安装配置git软件
+   sudo apt-get install git
+   git config --global user.email "your@email"
+   git config --global user.name "yourname"
+* 在本地克隆代码仓库
+   git clone https://github.com/ubuntu-kylin/phone_manager.git
+* 在本地编辑代码
+* 提交修改
+   git commit -a -m "修改描述"
+* 上传到服务器
+   git push origin master 
+
+
+
+
 
