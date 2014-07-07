@@ -55,7 +55,7 @@ phone_manager
 	+ 实现基本功能和部分高级功能
 	+ 各项功能能够正常工作并有稳定性测试jonaszhang
 
-## 附录：GitHub项目使用指南
+## 附录1：GitHub项目使用指南
 * 注册github账号https://github.com，记住自己的账号和密码
 * 安装配置git软件
    sudo apt-get install git
@@ -69,7 +69,8 @@ phone_manager
 * 上传到服务器
    git push origin master 
 
-
+## 附录2：参考文献
+   Google官方的ADB文档：https://developer.android.com/tools/help/adb.html
 
 
 
