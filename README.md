@@ -23,8 +23,7 @@
 
 
 **联系方式：**
-* email: <jonaszhang@ubuntukylin.com>
-* email: <zpy@98ki.com>
+* email: <jonaszhang@ubuntukylin.com> <zpy@98ki.com>
 * 论坛跟帖: http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=9440&extra=
 
 
