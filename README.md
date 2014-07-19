@@ -1,4 +1,4 @@
-phone_manager
+优麒麟手机助手
 =============
 
 ## CSDN 2014开源夏令营项目
@@ -21,26 +21,13 @@ phone_manager
    * 获取root权限等
    * ...
 
-**项目代码地址：**
-   在CSDN CODE代码托管平台或Launchpad平台上创建项目。
-
-
-**其他需求：**
-
-* 遵循本次活动主办方CSDN对开源协议的相关规定
-
-
-
-**计划：**
-
-* 中期检查前完成实现方案设计、ADB工具的熟练应用和资料查找、图形界面的设计与实现
-* 结题之前完成基本管理功能和高级功能的实现
 
 **联系方式：**
-* email: <jonaszhang@ubuntukylin.com>
+* email: <jonaszhang@ubuntukylin.com> <zpy@98ki.com>
 * 论坛跟帖: http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=9440&extra=
 
 
+<<<<<<< HEAD
 ## 对学生的要求
 
 * 熟悉Linux图形界面开发工具和语言，如Qt/QML等
@@ -71,6 +58,6 @@ phone_manager
 
 ## 附录2：参考文献
    Google官方的ADB文档：https://developer.android.com/tools/help/adb.html
-
-
-
+/android目录是该项目在Android端App的源码。
+/desktop目录是该项目在Ubuntu kylin下的桌面应用源码。
+/doc目录是该项目相关文档所在。
