@@ -48,8 +48,8 @@ public class BuildOwnPawServerService extends PawServerService {
 		hideNotificationIcon = false;
 		execAutostartScripts = false;
 		showUrlInNotification = false;
-		notificationTitle = "Notification Title";
-		notificationMessage = "Notification Message";
+		notificationTitle = "优麒麟手机助手";
+		notificationMessage = "优麒麟手机助手已启动";
 		appName = getString(R.string.app_name);
 		activityClass = "com.ukylin.kylinphonemanager.BuildOwnPawServerActivity";
 		notificationDrawableId = R.drawable.icon;
