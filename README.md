@@ -27,7 +27,6 @@
 * 论坛跟帖: http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=9440&extra=
 
 
-<<<<<<< HEAD
 ## 对学生的要求
 
 * 熟悉Linux图形界面开发工具和语言，如Qt/QML等
