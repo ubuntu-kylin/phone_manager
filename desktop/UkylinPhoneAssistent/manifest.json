@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.username.html5",
+    "description": "description of html5",
+    "framework": "ubuntu-sdk-14.10-qml-dev3",
+    "architecture": "all",
+    "title": "html5",
+    "hooks": {
+        "html5": {
+            "apparmor": "html5.json",
+            "desktop": "html5.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": ""
+}
