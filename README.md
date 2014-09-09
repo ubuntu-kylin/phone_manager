@@ -47,12 +47,14 @@
 
 **联系方式：**
 * email: <jonaszhang@ubuntukylin.com> <zpy@98ki.com>
+* 开发者分支：https://github.com/berniezhang428/phone_manager
+* 官方分支    ：https://github.com/ubuntu-kylin/phone_manager
 * 论坛跟帖: http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=9440&extra=
 
 
 ## 对学生的要求
 
-* 熟悉Linux图形界面开发工具和语言，如Qt/QML等
+* 熟悉Linux图形界面开发工具和语言，如Qt/HTML/JS/CSS等
 * 熟悉手机的各项功能
 * 具有较强的动手能力
 
