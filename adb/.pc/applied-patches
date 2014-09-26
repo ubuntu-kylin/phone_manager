@@ -1,0 +1,5 @@
+remove-selinux-android.patch
+add_adbd.patch
+reboot-syscall.patch
+enable-emulator.patch
+ppc64el-ftbfs.patch
